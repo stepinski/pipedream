@@ -1,0 +1,6 @@
+it's pipedream created task to search for all org issues created since last run
+steps.github.github
+Searches for issues or pull requests by state and keyword.
+
+params: 
+    query: steps.nodejs.query
